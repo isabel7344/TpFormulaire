@@ -1,0 +1,9 @@
+label{
+    text-transform: uppercase;
+    text-decoration: darkblue;
+    font-weight: bold;
+    margin-right: 50px;
+}
+.person-shadow{
+    box-shadow: 0px 2px 15px black;
+}
